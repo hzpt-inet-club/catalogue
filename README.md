@@ -1,5 +1,7 @@
 <h1 align="center">目录</h1>
 
+**[华为云网络基础教程目录](https://github.com/hzpt-inet-club/network)**
+
 **[nginx教程](https://github.com/hzpt-inet-club/nginx_course)**
 
 **[docker教程](https://github.com/hzpt-inet-club/docker_course)**
